@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "namespace": "com.google.entity",
+  "name": "ParticipantEvent",
+  "fields": [
+    {
+      "name": "eventName",
+      "type": ["null", "string"],
+      "default": null
+    }
+  ]
+}

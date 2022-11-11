@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    streams:
+      application-id: "joiningApp"
+      bootstrap-servers: "localhost:9092"
+    properties:
+      schema:
+        registry:
+          url: "localhost:8081"

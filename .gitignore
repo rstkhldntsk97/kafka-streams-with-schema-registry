@@ -36,3 +36,4 @@ build/
 kafka-streams-join.iml
 
 src/main/java/
+/src/main/java/

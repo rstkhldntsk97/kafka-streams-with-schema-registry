@@ -34,3 +34,5 @@ build/
 
 .mvn/
 kafka-streams-join.iml
+
+src/main/java/
